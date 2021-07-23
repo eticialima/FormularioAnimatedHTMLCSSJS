@@ -12,12 +12,7 @@
 * Responsive
 
 <p>Eu construí um formulario com telas bem estaticas, onde o objetivo é as telas com efeito glass. Foi utilizado as habilidades em html/CSS e basico de JS para animação entre login e cadastro.  
-
-### Arquivos no repositorio
-* index.html
-* style.css 
-* git.pasta 
-
+ 
 ### Como usar ? 
 <p>- index.html</P><p> Você pode baixar o repositorio ou clona-lo e depois executar o arquivo index.html para visualizar o site na web.</P> 
 
